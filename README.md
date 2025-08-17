@@ -1,2 +1,2 @@
-# LawOfDemeter
-Law of Demeter violation detector (well, actually just a dot counter).
+# Law of Demeter
+In the good ol' days when I was a little boy, I was reading some articles about the guidelines for writing a well-designed object-oriented code. One of the rules-of-thumb I found was the [law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter), so I decided to write a short script to help me detect the violations of the law. But contrary to its name, this program doesn't do any sophisticated analysis of the code, it literally just counts the dots on a line, so take its findings with a grain of salt.
